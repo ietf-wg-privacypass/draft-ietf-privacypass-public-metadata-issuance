@@ -1,6 +1,6 @@
 ---
 title: "Privacy Pass Issuance Protocols with Public Metadata"
-abbrev: "Privacy Pass Issuance Protocols with Public Metadata"
+abbrev: "Issuance Protocols Public Metadata"
 category: info
 
 docname: draft-ietf-privacypass-public-metadata-issuance-latest
