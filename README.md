@@ -7,6 +7,7 @@ This is the working area for the IETF [PRIVACYPASS Working Group](https://datatr
 * [Working Group Draft](https://datatracker.ietf.org/doc/html/draft-ietf-privacypass-public-metadata-issuance)
 * [Compare Editor's Copy to Working Group Draft](https://ietf-wg-privacypass.github.io/draft-ietf-privacypass-public-metadata-issuance/#go.draft-ietf-privacypass-public-metadata-issuance.diff)
 
+
 ## Contributing
 
 See the
@@ -24,6 +25,6 @@ Formatted text and HTML versions of the draft can be built using `make`.
 $ make
 ```
 
-Command line usage requires that you have the necessary software installed. See
+Command line usage requires that you have the necessary software installed.  See
 [the instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/SETUP.md).
 
