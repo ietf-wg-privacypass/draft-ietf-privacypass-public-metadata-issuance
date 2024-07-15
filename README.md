@@ -2,7 +2,7 @@
 
 This is the working area for the IETF [PRIVACYPASS Working Group](https://datatracker.ietf.org/wg/privacypass/documents/) Internet-Draft, "Privacy Pass Issuance Protocols with Public Metadata".
 
-* [Editor's Copy](https://ietf-wg-privacypass.github.io/draft-ietf-privacypass-public-metadata-issuance/#go.draft-ietf-privacypass-public-metadata-issuance.html)
+* [Editor's Copy](https://ietf-wg-privacypass.github.io/draft-ietf-privacypass-public-metadata-issuance/draft-ietf-privacypass-public-metadata-issuance.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-privacypass-public-metadata-issuance)
 * [Working Group Draft](https://datatracker.ietf.org/doc/html/draft-ietf-privacypass-public-metadata-issuance)
 * [Compare Editor's Copy to Working Group Draft](https://ietf-wg-privacypass.github.io/draft-ietf-privacypass-public-metadata-issuance/#go.draft-ietf-privacypass-public-metadata-issuance.diff)
