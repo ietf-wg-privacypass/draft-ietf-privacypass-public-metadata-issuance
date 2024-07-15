@@ -40,7 +40,7 @@ normative:
   POPRF: I-D.irtf-cfrg-voprf
   PBRSA: I-D.amjad-cfrg-partially-blind-rsa
   TOKEN-EXTENSION:
-    target: https://chris-wood.github.io/draft-wood-privacypass-extensible-token/draft-wood-privacypass-extensible-token.html
+    target: https://ietf-wg-privacypass.github.io/draft-ietf-privacypass-auth-scheme-extensions/draft-ietf-privacypass-auth-scheme-extensions.html
     title: "The PrivateToken HTTP Authentication Scheme Extensions Parameter"
 
 
