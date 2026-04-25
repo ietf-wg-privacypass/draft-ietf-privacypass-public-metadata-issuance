@@ -33,11 +33,12 @@ author:
     organization: Cloudflare, Inc.
     email: caw@heapingbits.net
 
+informative:
+  ARCHITECTURE: RFC.9576
 normative:
-  AUTHSCHEME: I-D.draft-ietf-privacypass-auth-scheme
-  BASIC-PROTOCOL: I-D.draft-ietf-privacypass-protocol
-  ARCHITECTURE: I-D.draft-ietf-privacypass-architecture
-  POPRF: I-D.irtf-cfrg-voprf
+  AUTHSCHEME: RFC.9577
+  BASIC-PROTOCOL: RFC.9578
+  POPRF: RFC.9497
   PBRSA: I-D.amjad-cfrg-partially-blind-rsa
   TOKEN-EXTENSION:
     target: https://ietf-wg-privacypass.github.io/draft-ietf-privacypass-auth-scheme-extensions/draft-ietf-privacypass-auth-scheme-extensions.html
