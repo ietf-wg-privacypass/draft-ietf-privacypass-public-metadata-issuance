@@ -11,10 +11,6 @@ consensus: true
 v: 3
 area: "Security"
 workgroup: "Privacy Pass"
-keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
 venue:
   group: "Privacy Pass"
   type: "Working Group"
@@ -30,7 +26,6 @@ author:
     email: "scott@shendrickson.com"
  -
     fullname: Christopher A. Wood
-    organization: Cloudflare, Inc.
     email: caw@heapingbits.net
 
 informative:
