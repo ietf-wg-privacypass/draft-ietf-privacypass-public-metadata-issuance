@@ -1,7 +1,7 @@
 ---
 title: "Privacy Pass Issuance Protocols with Public Metadata"
 abbrev: "Issuance Protocols Public Metadata"
-category: info
+category: std
 
 docname: draft-ietf-privacypass-public-metadata-issuance-latest
 submissiontype: IETF
