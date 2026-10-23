@@ -5,7 +5,7 @@
 Privacy Pass                                              S. Hendrickson
 Internet-Draft                                                    Google
 Intended status: Standards Track                              C. A. Wood
-Expires: 25 February 2027                                 24 August 2026
+Expires: 26 April 2027                                   23 October 2026
 
 
           Privacy Pass Issuance Protocols with Public Metadata
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 25 February 2027.
+   This Internet-Draft will expire on 26 April 2027.
 
 Copyright Notice
 
@@ -692,9 +692,9 @@ struct {
 
    [PBRSA]    Amjad, G. A., Hendrickson, S., Wood, C. A., and K. W. L.
               Yeo, "Partially Blind RSA Signatures", Work in Progress,
-              Internet-Draft, draft-amjad-cfrg-partially-blind-rsa-03,
-              15 August 2024, <https://datatracker.ietf.org/doc/html/
-              draft-amjad-cfrg-partially-blind-rsa-03>.
+              Internet-Draft, draft-irtf-cfrg-partially-blind-rsa-02, 2
+              October 2025, <https://datatracker.ietf.org/doc/html/
+              draft-irtf-cfrg-partially-blind-rsa-02>.
 
    [POPRF]    Davidson, A., Faz-Hernandez, A., Sullivan, N., and C. A.
               Wood, "Oblivious Pseudorandom Functions (OPRFs) Using
@@ -721,10 +721,12 @@ struct {
               May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
 
    [TOKEN-EXTENSION]
-              "The PrivateToken HTTP Authentication Scheme Extensions
-              Parameter", n.d., <https://ietf-wg-privacypass.github.io/
-              draft-ietf-privacypass-auth-scheme-extensions/draft-ietf-
-              privacypass-auth-scheme-extensions.html>.
+              Hendrickson, S. and C. A. Wood, "The PrivateToken HTTP
+              Authentication Scheme Extensions Parameter", Work in
+              Progress, Internet-Draft, draft-ietf-privacypass-auth-
+              scheme-extensions-03, 13 May 2026,
+              <https://datatracker.ietf.org/doc/html/draft-ietf-
+              privacypass-auth-scheme-extensions-03>.
 
 9.2.  Informative References
 
