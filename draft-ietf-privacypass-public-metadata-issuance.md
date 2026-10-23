@@ -34,10 +34,8 @@ normative:
   AUTHSCHEME: RFC.9577
   BASIC-PROTOCOL: RFC.9578
   POPRF: RFC.9497
-  PBRSA: I-D.amjad-cfrg-partially-blind-rsa
-  TOKEN-EXTENSION:
-    target: https://ietf-wg-privacypass.github.io/draft-ietf-privacypass-auth-scheme-extensions/draft-ietf-privacypass-auth-scheme-extensions.html
-    title: "The PrivateToken HTTP Authentication Scheme Extensions Parameter"
+  PBRSA: I-D.draft-irtf-cfrg-partially-blind-rsa
+  TOKEN-EXTENSION: I-D.draft-ietf-privacypass-auth-scheme-extensions
 
 
 --- abstract
